@@ -1,0 +1,34 @@
+﻿  Source.cpp
+E:\Uni\Matvid\Matvid\Source.cpp(41,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+E:\Uni\Matvid\Matvid\Source.cpp(43,2): error C2653: 'Console': no es un nombre de clase o espacio de nombres
+E:\Uni\Matvid\Matvid\Source.cpp(43,11): error C2065: 'CursorVisible': identificador no declarado
+E:\Uni\Matvid\Matvid\Source.cpp(242,18): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Uni\Matvid\Matvid\Source.cpp(274,18): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Uni\Matvid\Matvid\Source.cpp(304,18): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Uni\Matvid\Matvid\Source.cpp(683,9): warning C4244: '=': conversión de 'long double' a 'float'; posible pérdida de datos
+E:\Uni\Matvid\Matvid\Source.cpp(684,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Uni\Matvid\Matvid\Source.cpp(692,8): warning C4244: '=': conversión de 'long double' a 'float'; posible pérdida de datos
+E:\Uni\Matvid\Matvid\Source.cpp(693,8): warning C4244: '=': conversión de 'long double' a 'float'; posible pérdida de datos
+E:\Uni\Matvid\Matvid\Source.cpp(694,8): warning C4244: '=': conversión de 'long double' a 'float'; posible pérdida de datos
+E:\Uni\Matvid\Matvid\Source.cpp(697,31): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Uni\Matvid\Matvid\Source.cpp(701,31): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Uni\Matvid\Matvid\Source.cpp(705,31): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Uni\Matvid\Matvid\Source.cpp(831,40): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Uni\Matvid\Matvid\Source.cpp(833,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Uni\Matvid\Matvid\Source.cpp(834,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Uni\Matvid\Matvid\Source.cpp(846,54): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Uni\Matvid\Matvid\Source.cpp(848,26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Uni\Matvid\Matvid\Source.cpp(849,26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Uni\Matvid\Matvid\Source.cpp(855,94): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Uni\Matvid\Matvid\Source.cpp(858,26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Uni\Matvid\Matvid\Source.cpp(859,26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Uni\Matvid\Matvid\Source.cpp(866,70): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Uni\Matvid\Matvid\Source.cpp(877,94): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Uni\Matvid\Matvid\Source.cpp(880,26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Uni\Matvid\Matvid\Source.cpp(881,26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Uni\Matvid\Matvid\Source.cpp(887,54): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Uni\Matvid\Matvid\Source.cpp(889,26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Uni\Matvid\Matvid\Source.cpp(890,26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\Uni\Matvid\Matvid\Source.cpp(1205,21): warning C4018: '<': no coinciden signed/unsigned
+E:\Uni\Matvid\Matvid\Source.cpp(1226,21): warning C4018: '<': no coinciden signed/unsigned
+E:\Uni\Matvid\Matvid\Source.cpp(1237,21): warning C4018: '<': no coinciden signed/unsigned
